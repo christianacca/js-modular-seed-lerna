@@ -1,6 +1,6 @@
 {
   "name": "@js-modular-seed/lib3",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "library that extracts part of the application responsibilities; as a seperate library it can be published to npm and then reused by other applications",
   "main": "index.js",
   "repository": {
@@ -23,7 +23,7 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/christianacca/js-modular-seed/issues"
-  },  
+  },
   "dependencies": {},
   "devDependencies": {},
   "peerDependencies": {}

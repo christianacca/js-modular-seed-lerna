@@ -1,12 +1,12 @@
 {
   "name": "@js-modular-seed/lib2",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "library that extracts part of the application responsibilities; as a seperate library it can be published to npm and then reused by other applications",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/christianacca/js-modular-seed.git"
-  },  
+  },
   "scripts": {
     "build": "node ../../scripts/node_modules/webpack/bin/webpack.js --env.debug",
     "build:prod": "node ../../scripts/node_modules/webpack/bin/webpack.js --env.prod",
@@ -28,10 +28,10 @@
     "core-js": "^2.4.0"
   },
   "devDependencies": {
-    "@js-modular-seed/lib1": "^0.0.2"
+    "@js-modular-seed/lib1": "^0.1.0"
   },
   "peerDependencies": {
-    "@js-modular-seed/lib1": "^0.0.2",
+    "@js-modular-seed/lib1": "^0.1.0",
     "lodash": "^4.13.1"
   }
 }
