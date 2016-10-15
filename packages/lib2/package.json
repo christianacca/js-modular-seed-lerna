@@ -1,6 +1,6 @@
 {
   "name": "@js-modular-seed/lib2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "library that extracts part of the application responsibilities; as a seperate library it can be published to npm and then reused by other applications",
   "main": "index.js",
   "repository": {

@@ -1,6 +1,6 @@
 {
   "name": "@js-modular-seed/app-scripts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Example application and consumer of this project libraries. Uses script references to serve JS",
   "main": "index.js",
   "repository": {
@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@js-modular-seed/lib1": "^0.1.0",
-    "@js-modular-seed/lib2": "^0.1.0",
+    "@js-modular-seed/lib2": "^0.1.1",
     "@js-modular-seed/lib3": "^0.1.0",
     "lodash": "^4.13.1"
   }
