@@ -1,0 +1,8 @@
+_*.js
+*.spec.js
+jsconfig.json
+webpack.config.js
+bundles/styles*.js
+
+# redundant webpack build artifacts produced by ExtractTextPlugin
+styles.umd.*
