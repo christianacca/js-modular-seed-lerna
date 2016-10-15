@@ -9,7 +9,7 @@ export function Lib2Class1(name) {
     /**
      * name of this instance
      */
-    this.name = name || 'class1';
+    this.name = name || 'lib2:class1';
 }
 
 Lib2Class1.prototype.getUniqueNameCount = getUniqueNameCount;
